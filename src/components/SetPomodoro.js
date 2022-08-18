@@ -5,9 +5,9 @@ import Button from "./Button";
 const SetPomodoro = () => {
   const { updateExecute } = useContext(SettingContext);
   const [newTimer, setNewTimer] = useState({
-    work: 0.3,
-    short: 0.2,
-    long: 1,
+    work: 1,
+    short: 5,
+    long: 10,
     active: "work",
   });
 
