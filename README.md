@@ -15,4 +15,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Demo
-![pomodoro-timer (1)](https://user-images.githubusercontent.com/62356757/185721944-744e22ef-ea59-403e-8cc7-c22b896bd45f.png)
+![pomodoro-timer (1)](https://user-images.githubusercontent.com/62356757/185769434-b1fb0325-c6ff-402f-a719-b4567bea7efe.png)
+![Captura de pantalla (3)](https://user-images.githubusercontent.com/62356757/185769372-37ccd9cc-f3ff-427f-ad11-a7972f57d9f3.png)
